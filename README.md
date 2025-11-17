@@ -1,7 +1,7 @@
 <p align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css"> 
 
-# Currently:
+# Currently
 
 <p style="display:flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64"/>
