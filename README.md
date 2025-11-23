@@ -76,11 +76,15 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# Stats:
+# Stats
 
 <!--![](https://github-readme-stats.vercel.app/api?username=letsdevapps&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=letsdevapps&theme=dark&hide_border=false)<br/>-->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=letsdevapps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=letsdevapps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </p>
