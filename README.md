@@ -92,4 +92,6 @@
 
 <!--![](https://github-profile-trophy.vercel.app/?username=letsdevapps&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
+![git-loading](img/git-loading.gif)
+
 </p>
