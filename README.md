@@ -1,3 +1,6 @@
+If you like something, leave a star so I know my work is impacting you in a positive way.
+
+
 <p align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css"> 
 
